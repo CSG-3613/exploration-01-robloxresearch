@@ -10,3 +10,7 @@ How to get import the proper profile for the Roblox game into VoiceBot:
 3. click Import at the bottom middle left.
 4. Find the correct downloaded profile (will be in github to download), and select it.
 5. It should be loaded, hit okay or apply and then VoiceBot should be working.
+
+
+Credits:
+Sprint Script - by GhosterGuyy
